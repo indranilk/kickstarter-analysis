@@ -1,5 +1,5 @@
 # kickstarter-analysis
-								Written Analysis of the Report
+								Written Analysis of the Results
 								
 Overview of Project
 
